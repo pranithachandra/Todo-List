@@ -1,0 +1,33 @@
+    html { font-size: 100%;
+         }
+    
+    body {
+
+          background: url(todoimage.jpeg) no-repeat center center fixed;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -0-background-size: cover;
+          background-size: cover;
+          font-family: 'Open Sans', sans-serif;
+         }
+
+    h1 {
+
+          font-family: 'Open Sans', sans-serif;
+          color: black;
+          text-align: center;
+          font-weight: 400;
+          margin: 20px;
+        }
+    form {
+        text-align: center;
+       }
+ 
+    div{
+        text-align: center;
+        list-style-type: square;
+       }
+    p{
+        text-align: center;
+       }
+    
